@@ -7,3 +7,4 @@
 - create build
 
 ## what I learned
+- git commands
